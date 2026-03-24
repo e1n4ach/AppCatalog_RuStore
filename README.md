@@ -72,7 +72,7 @@ Android-приложение для каталога мобильных прил
 
 1. Склонировать репозиторий:
    ```bash
-   git clone https://github.com/e1n4ach/AppCatalog_RuStore
+   git clone https://github.com/e1n4ach/AppCatalog_RuStore.git
    ```
 2. Открыть проект в Android Studio
 3. Дождаться синхронизации Gradle
